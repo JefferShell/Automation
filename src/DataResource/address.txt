@@ -1,0 +1,7 @@
+beijing=http://bj.58.com/
+shanghai=http://tj.58.com
+langfang=http://lf.58.com/
+shanghai=http://sh.58.com/
+shenzhen=http://sz.58.com/
+chengdu=http://cd.58.com/
+hangzhou=http://hz.58.com/

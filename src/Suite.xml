@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="chanjet.com">	
+	<test name="登录" >
+		<classes>
+			<class name="com.chanjet.testcase.LoginCase"/>		
+		</classes>
+	</test> 
+</suite>
